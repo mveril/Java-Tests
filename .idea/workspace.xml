@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="830e2049-f2de-4797-ab39-6c5f6ba4116e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,39 +52,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MathUtilsTest">
-    <configuration name="All in Java-Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.reverseInt.reverseIntNeg">
+    <configuration name="StringUtilsTest$IsAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java-Tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathUtilsTest" />
+      <option name="PACKAGE_NAME" value="StringUtilsTest" />
+      <option name="MAIN_CLASS_NAME" value="StringUtilsTest$IsAnagram" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathUtilsTest.additionner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringUtilsTest$IsAnagram.isAnagramLower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathUtilsTest" />
-      <option name="METHOD_NAME" value="additionner" />
+      <option name="PACKAGE_NAME" value="StringUtilsTest" />
+      <option name="MAIN_CLASS_NAME" value="StringUtilsTest$IsAnagram" />
+      <option name="METHOD_NAME" value="isAnagramLower" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathUtilsTest.additionnerTableau" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringUtilsTest$Palindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Tests" />
+      <option name="PACKAGE_NAME" value="StringUtilsTest" />
+      <option name="MAIN_CLASS_NAME" value="StringUtilsTest$Palindrome" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Tests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathUtilsTest" />
-      <option name="METHOD_NAME" value="additionnerTableau" />
+      <option name="MAIN_CLASS_NAME" value="reverseInt" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseInt.reverseIntNeg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="reverseInt" />
+      <option name="METHOD_NAME" value="reverseIntNeg" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,10 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MathUtilsTest" />
-        <item itemvalue="JUnit.MathUtilsTest.additionnerTableau" />
-        <item itemvalue="JUnit.MathUtilsTest.additionner" />
-        <item itemvalue="JUnit.All in Java-Tests" />
+        <item itemvalue="JUnit.reverseInt.reverseIntNeg" />
+        <item itemvalue="JUnit.reverseInt" />
+        <item itemvalue="JUnit.StringUtilsTest$IsAnagram" />
+        <item itemvalue="JUnit.StringUtilsTest$Palindrome" />
+        <item itemvalue="JUnit.StringUtilsTest$IsAnagram.isAnagramLower" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Locale;
 
 public class StringUtils {
     public static String concat(String str1,String str2){
@@ -36,7 +37,7 @@ public class StringUtils {
             arrStr2.append(letter);
         }
 
-        return (!arrStr1.toString().equals(arrStr2.toString()));
+        return (arrStr1.toString().equals(arrStr2.toString()));
 
     }
 
